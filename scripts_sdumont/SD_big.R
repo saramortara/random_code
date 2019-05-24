@@ -124,7 +124,7 @@ q()
 exit
 #la sesion interactiva para rodar setup
 ssh sara.mortara@login.sdumont.lncc.br
-b%IMOLKn
+
 squeue -p cpu_small
 squeue -p cpu_dev
 
