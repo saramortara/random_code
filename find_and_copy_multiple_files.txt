@@ -1,6 +1,7 @@
 ## options to copy multiple files with space
 
 ### works only for a few files
+# print-0 because of space in file names
 find . -type f -name "*.txt" -print0 | xargs -n 1 --null cp -t para
 
 ### avoiding xargs: argument line too long
