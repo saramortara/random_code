@@ -1,0 +1,19 @@
+### Linux ####
+# connect vpn
+sudo vpnc /etc/vpnc/sdumont.conf
+
+# enter sdumont
+ssh sara.mortara@login.sdumont.lncc.br
+
+# disconnect
+vpnc-disconnect
+
+### Ruwindows ###
+
+# connect vpn by interface
+
+# enter sd
+ssh sara.mortara@login.sdumont.lncc.br
+
+cd /scratch/modler/sara.mortara/
+ls
