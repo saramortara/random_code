@@ -5,10 +5,10 @@ sinfo -p cpu_small -s
 salloc --nodes=1 -p cpu_dev -J baf --exclusive --time=00:20:00
 squeue -u sara.mortara
 
-ssh sdumont1002
+ssh sdumont1039
 
 
-$ # Carregue módulos necessários, dispare o R etc
+# Carregue módulos necessários, dispare o R etc
 module load R/3.5.2_openmpi_2.0_gnu
 export R_LIBS_USER='/scratch/modler/sara.mortara/R_gnu'
 
@@ -42,7 +42,7 @@ export OMPI_MCA_mpi_warn_on_fork=0
 
 cd $SCRATCH
 ls
-cd baf_environmental_data
+
 R --no-save --no-restore
 
 q()
