@@ -32,4 +32,27 @@ find . -type f -name "*raw_mean_range*.tif" -exec cp -t /scratch/modler/sara.mor
 find . -type f -name "*raw_mean_median*.tif" -exec cp -t /scratch/modler/sara.mortara/IIS_download/tif_files/cont/ameacadas/ {} +
 
 
-  
+ # ENDEMICAS
+# entra no dir do diogo
+cd /scratch/modler/diogo.rocha2/IIS_modelos_2019/flora_endemica/modelos_ameacadas_5km
+
+# encontra e copia os arquivos
+## bin
+find . -type f -name "*bin*ensemble*50.tif" -exec cp -t /scratch/modler/sara.mortara/IIS_download/tif_files/bin/endemicas/ {} +
+## range
+find . -type f -name "*raw_mean_range*.tif" -exec cp -t /scratch/modler/sara.mortara/IIS_download/tif_files/range/endemicas/ {} +
+## median
+find . -type f -name "*raw_mean_median*.tif" -exec cp -t /scratch/modler/sara.mortara/IIS_download/tif_files/cont/endemicas/ {} +
+
+ # FAUNA
+# entra no dir do diogo
+cd /scratch/modler/diogo.rocha2/IIS_modelos_2019/fauna/modelos_ameacadas_5km
+
+# encontra e copia os arquivos
+## bin
+find . -type f -name "*bin*ensemble*50.tif" -exec cp -t /scratch/modler/sara.mortara/IIS_download/tif_files/bin/fauna/ {} +
+## range
+find . -type f -name "*raw_mean_range*.tif" -exec cp -t /scratch/modler/sara.mortara/IIS_download/tif_files/range/fauna/ {} +
+## median
+find . -type f -name "*raw_mean_median*.tif" -exec cp -t /scratch/modler/sara.mortara/IIS_download/tif_files/cont/fauna/ {} +
+
