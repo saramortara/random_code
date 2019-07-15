@@ -32,12 +32,12 @@
 sistema de controle de versão \textbf{livre} e de \textbf{código aberto}
 
 \begin{itemize}
-\item pegada
-\item alta performance
-\item múltiplos fluxos de trabalho
-\item \textit{branching} & \textit{merging}
-\item distribuição - \textit{clone}
-\item área intermediária - \textit{staging area}
+ \pause \item   pegada
+ \pause \item alta performance
+ \pause \item múltiplos fluxos de trabalho
+ \pause \item \textit{branching} & \textit{merging}
+ \pause \item distribuição - \textit{clone}
+ \pause \item área intermediária - \textit{staging area}
 \end{itemize}
 
 \end{frame}
@@ -86,19 +86,19 @@ serviço de hospedagem na internet para controle de versão e colaboração usan
 \includegraphics[scale=.4]{gitflow.png}
 \end{frame}
 
-\begin{frame}{o exemplo do modleR}
+%\begin{frame}{o exemplo do modleR}
 
-\href{https://github.com/Model-R/modelr_pkg}{https://github.com/Model-R/modelr\_pkg}
-
-
-\includegraphics[scale=.3]{print1.png}
-
-\end{frame}
+%\href{https://github.com/Model-R/modelr_pkg}{https://github.com/Model-R/modelr\_pkg}
 
 
-\begin{frame}{fluxo de trabalho do pacote modleR}
-\includegraphics[scale=.3]{git.png}
-\end{frame}
+%\includegraphics[scale=.3]{print1.png}
+
+%\end{frame}
+
+
+%\begin{frame}{fluxo de trabalho do pacote modleR}
+%\includegraphics[scale=.3]{git.png}
+%\end{frame}
 
 \begin{frame}{comandos básicos}
 
@@ -118,21 +118,26 @@ serviço de hospedagem na internet para controle de versão e colaboração usan
 \end{frame}
 
 
-\begin{frame}{os meus \textbf{quatro} comandos básicos}
+\begin{frame}{os meus \textbf{cinco} comandos básicos}
 
-     \begin{block}{1. Para atualizar o repo localmente: }
+     \begin{block}{1. Para checar em que pé está: }
+      \code{git pull status}
+      \end{block}
+
+
+     \begin{block}{2. Para atualizar o repo localmente: }
       \code{git pull origin master}
       \end{block}
 
-   \begin{block}{2. Para adicionar um arquivo com mudanças:}
+   \begin{block}{3. Para adicionar um arquivo com mudanças:}
          \code{git add filename}
         \end{block}
         
-          \begin{block}{3. O \textit{commit}:}
+          \begin{block}{4. O \textit{commit}:}
          \code{git commit -m "uma mensagem informativa para você e coleguinhxs"}
         \end{block}
 
-     \begin{block}{4. Enviando para o repositório:}
+     \begin{block}{5. Enviando para o repositório:}
          \code{git push origin master}
         \end{block}
 
@@ -143,7 +148,7 @@ serviço de hospedagem na internet para controle de versão e colaboração usan
 
 \begin{enumerate}
 
-\pause \item descrever no \textbf{\textit{commit}} a mudança
+\pause \item descrever no \textbf{\textit{commit}} (o porquê da) mudança 
 
 \pause \item trabalhar uma tarefa em cada \textbf{\textit{branch}}
 
