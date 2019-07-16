@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.25)  16 JUN 2019 21:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.10.25)  15 JUL 2019 22:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1224,7 +1224,7 @@ LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
 
 ! Misplaced alignment tab character &.
 \beamer@doifinframe ...\item \textit {branching} &
-                                                   \textit {merging} \item d...
+                                                   \textit {merging} \pause ...
 l.43 \end{frame}
                 
 I can't figure out why you would want to use a tab mark
@@ -1242,6 +1242,120 @@ Package pdftex.def Info: logo-git.png used on input line 43.
  [2
 
  <./logo-git.png>]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...\item \textit {branching} &
+                                                   \textit {merging} \pause ...
+l.43 \end{frame}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: logo-git.png Graphic file (type png)
+<use logo-git.png>
+Package pdftex.def Info: logo-git.png used on input line 43.
+(pdftex.def)             Requested size: 44.16422pt x 18.46866pt.
+ [3
+
+]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...\item \textit {branching} &
+                                                   \textit {merging} \pause ...
+l.43 \end{frame}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: logo-git.png Graphic file (type png)
+<use logo-git.png>
+Package pdftex.def Info: logo-git.png used on input line 43.
+(pdftex.def)             Requested size: 44.16422pt x 18.46866pt.
+ [4
+
+]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...\item \textit {branching} &
+                                                   \textit {merging} \pause ...
+l.43 \end{frame}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: logo-git.png Graphic file (type png)
+<use logo-git.png>
+Package pdftex.def Info: logo-git.png used on input line 43.
+(pdftex.def)             Requested size: 44.16422pt x 18.46866pt.
+ [5
+
+]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...\item \textit {branching} &
+                                                   \textit {merging} \pause ...
+l.43 \end{frame}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: logo-git.png Graphic file (type png)
+<use logo-git.png>
+Package pdftex.def Info: logo-git.png used on input line 43.
+(pdftex.def)             Requested size: 44.16422pt x 18.46866pt.
+ [6
+
+]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...\item \textit {branching} &
+                                                   \textit {merging} \pause ...
+l.43 \end{frame}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: logo-git.png Graphic file (type png)
+<use logo-git.png>
+Package pdftex.def Info: logo-git.png used on input line 43.
+(pdftex.def)             Requested size: 44.16422pt x 18.46866pt.
+ [7
+
+]
+! Misplaced alignment tab character &.
+\beamer@doifinframe ...\item \textit {branching} &
+                                                   \textit {merging} \pause ...
+l.43 \end{frame}
+                
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+File: logo-git.png Graphic file (type png)
+<use logo-git.png>
+Package pdftex.def Info: logo-git.png used on input line 43.
+(pdftex.def)             Requested size: 44.16422pt x 18.46866pt.
+ [8
+
+]
 
 ! LaTeX Error: Something's wrong--perhaps a missing \item.
 
@@ -1254,12 +1368,12 @@ l.53 \end{frame}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<github.jpeg, id=73, 258.9675pt x 75.28125pt>
+<github.jpeg, id=225, 258.9675pt x 75.28125pt>
 File: github.jpeg Graphic file (type jpg)
  <use github.jpeg>
 Package pdftex.def Info: github.jpeg used on input line 53.
 (pdftex.def)             Requested size: 51.79257pt x 15.05597pt.
- [3
+ [9
 
  <./github.jpeg>]
 ! Undefined control sequence.
@@ -1284,9 +1398,9 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[4
+[10
 
-] <basic.png, id=128, 804.00375pt x 401.5pt>
+] <basic.png, id=280, 804.00375pt x 401.5pt>
 File: basic.png Graphic file (type png)
  <use basic.png>
 Package pdftex.def Info: basic.png used on input line 73.
@@ -1296,9 +1410,9 @@ Overfull \hbox (14.30594pt too wide) in paragraph at lines 73--73
 [][]  
  []
 
-[5
+[11
 
- <./basic.png>] <feature-branch.png, id=156, 804.00375pt x 401.5pt>
+ <./basic.png>] <feature-branch.png, id=308, 804.00375pt x 401.5pt>
 File: feature-branch.png Graphic file (type png)
 
 <use feature-branch.png>
@@ -1309,10 +1423,10 @@ Overfull \hbox (14.30594pt too wide) in paragraph at lines 77--77
 [][]  
  []
 
-[6
+[12
 
  <./feature-branch.png>]
-<jennifer_gilbert.png, id=184, 806.01125pt x 522.95375pt>
+<jennifer_gilbert.png, id=336, 806.01125pt x 522.95375pt>
 File: jennifer_gilbert.png Graphic file (type png)
 
 <use jennifer_gilbert.png>
@@ -1323,9 +1437,9 @@ Overfull \hbox (15.10892pt too wide) in paragraph at lines 82--82
 [][]  
  []
 
-[7
+[13
 
- <./jennifer_gilbert.png>] <gitflow.png, id=212, 804.00375pt x 401.5pt>
+ <./jennifer_gilbert.png>] <gitflow.png, id=365, 804.00375pt x 401.5pt>
 File: gitflow.png Graphic file (type png)
 
 <use gitflow.png>
@@ -1336,46 +1450,29 @@ Overfull \hbox (14.30594pt too wide) in paragraph at lines 87--87
 [][]  
  []
 
-[8
-
- <./gitflow.png>] <print1.png, id=240, 931.48pt x 650.43pt>
-File: print1.png Graphic file (type png)
- <use print1.png>
-Package pdftex.def Info: print1.png used on input line 96.
-(pdftex.def)             Requested size: 279.44615pt x 195.1305pt.
-
-[9
-
- <./print1.png (PNG copy)>] <git.png, id=267, 963.6pt x 542.025pt>
-File: git.png Graphic file (type png)
-
-<use git.png>
-Package pdftex.def Info: git.png used on input line 101.
-(pdftex.def)             Requested size: 289.08223pt x 162.60875pt.
- [10
-
- <./git.png (PNG copy)>]
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 118.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-) [11
-
-] [12
-
-] [13
-
-]
 [14
 
-] [15
+ <./gitflow.png>]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 118.
+
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+[15
 
 ] [16
 
 ] [17
 
 ] [18
+
+] [19
+
+] [20
+
+] [21
+
+] [22
 
 ]
 \tf@nav=\write6
@@ -1387,11 +1484,11 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 \tf@snm=\write8
 \openout8 = `apresentacao_git.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 160.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 160.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 165.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 165.
  (./apresentacao_git.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 160.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 160.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 165.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 165.
 Package rerunfilecheck Info: File `apresentacao_git.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1402,13 +1499,13 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 160.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 165.
  ) 
 Here is how much of TeX's memory you used:
- 17430 strings out of 494888
- 325372 string characters out of 6179126
- 402621 words of memory out of 5000000
- 20277 multiletter control sequences out of 15000+600000
+ 17424 strings out of 494888
+ 325293 string characters out of 6179126
+ 402628 words of memory out of 5000000
+ 20265 multiletter control sequences out of 15000+600000
  14790 words of font info for 30 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
  48i,14n,51p,417b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1423,10 +1520,10 @@ exmf-var/fonts/pk/ljfour/jknappen/ec/ecsx1095.600pk> </home/sara/.texmf-var/fon
 ts/pk/ljfour/jknappen/ec/ecss1095.600pk> </home/sara/.texmf-var/fonts/pk/ljfour
 /jknappen/ec/ecss1440.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb>
-Output written on apresentacao_git.pdf (18 pages, 372486 bytes).
+Output written on apresentacao_git.pdf (22 pages, 251160 bytes).
 PDF statistics:
- 763 PDF objects out of 1000 (max. 8388607)
- 505 compressed objects within 6 object streams
- 37 named destinations out of 1000 (max. 500000)
- 83 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 860 PDF objects out of 1000 (max. 8388607)
+ 602 compressed objects within 7 object streams
+ 45 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
